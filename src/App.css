@@ -45,9 +45,9 @@ svg {
 .content h1 {
   font-family: "Alex Brush", cursive;
   color: var(--white);
-  font-size: 4rem !important;
+  font-size: 6rem !important;
   line-height: 1;
-  margin-top: 320px;
+  margin-top: 450px;
   color: #3d3e3f;
   text-align: center;
 }
